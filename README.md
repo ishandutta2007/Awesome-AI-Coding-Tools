@@ -1,40 +1,49 @@
-# Awesome AI Coding Tools
+# ⚡ Awesome AI Coding Tools
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Coding-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Coding-Tools?style=social&color=white" alt="GitHub stars"></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Coding-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Coding-Tools?style=social&color=white" alt="GitHub forks"></a>
-  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Coding-Tools/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
+  <img src="./assets/banner.svg" alt="Awesome AI Coding Tools Banner" width="100%">
 </p>
 
-> A curated directory of the best **AI Coding Tools**, **AI-Powered Code Editors**, **Autonomous Coding Agents**, **Code Completion Extensions**, and **Self-Hosted Open-Source LLM Developer Tools**.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Coding-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Coding-Tools?style=social&color=white" alt="GitHub stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Coding-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Coding-Tools?style=social&color=white" alt="GitHub forks"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Coding-Tools/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> 🚀 A curated directory of the best **AI Coding Tools**, **AI-Powered Code Editors**, **Autonomous Coding Agents**, **Code Completion Extensions**, and **Self-Hosted Open-Source LLM Developer Tools**.
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [Top SaaS / Hosted AI Coding Platforms](#saas-hosted-platforms)
-- [Top Open-Source AI Coding Projects](#open-source-github-projects)
-- [Architecture & Frameworks for Custom AI Coding](#architecture--frameworks-for-custom-ai-coding)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
----
-
-## Sector Overview & Market Dynamics
-
-The global AI code assistant and developer productivity market was valued at approximately **$4.1 billion to $4.6 billion in 2025–2026** and is projected to surpass **$21 billion to upwards of $78 billion by 2030–2032**, expanding at a rapid compound annual growth rate (CAGR) of **25%–35%**. 
-
-The sector currently demonstrates **moderate fragmentation with strong consolidation pressure at the frontier**: while foundational platform incumbents like Microsoft/GitHub and Amazon command massive enterprise market share through distribution advantages, aggressive venture-backed innovators (such as Cursor / Anysphere, Codeium / Exafunction, and Cognition) and transparent, privacy-first open-source ecosystems (Ollama, OpenHands, Cline, Continue) prevent a complete single-vendor "winner-take-all" outcome.
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 Top SaaS / Hosted AI Coding Platforms](#-saas--hosted-platforms)
+- [🔓 Top Open-Source AI Coding Projects](#-open-source-github-projects)
+- [🏗️ Architecture & Frameworks for Custom AI Coding](#️-architecture--frameworks-for-custom-ai-coding)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#️-disclaimer)
 
 ---
 
-## SaaS / Hosted Platforms
+## 📊 Sector Overview & Market Dynamics
 
-Below is a curated comparison of leading commercial AI coding platforms, sorted in descending order by parent company scale (valuation or enterprise revenue).
+The global AI code assistant and developer productivity market was valued at approximately **$4.1 billion to $4.6 billion in 2025–2026** and is projected to surpass **$21 billion to upwards of $78 billion by 2030–2032**, expanding at a rapid compound annual growth rate (CAGR) of **25%–35%** 📈. 
 
-| Platform | Valuation / Company Scale | Starting Pricing | Free Tier Limits / Free Trial | Key Capabilities & Overview |
+The sector currently demonstrates **moderate fragmentation with strong consolidation pressure at the frontier**: while foundational platform incumbents like Microsoft/GitHub and Amazon command massive enterprise market share through distribution advantages, aggressive venture-backed innovators (such as Cursor / Anysphere, Codeium / Exafunction, and Cognition) and transparent, privacy-first open-source ecosystems (Ollama, OpenHands, Cline, Continue) prevent a complete single-vendor "winner-take-all" outcome 🌐.
+
+---
+
+## 💼 SaaS / Hosted Platforms
+
+Below is a curated comparison of leading commercial AI coding platforms, sorted in descending order by parent company scale (valuation or enterprise revenue) 🏢.
+
+| 🛠️ Platform | 🏷️ Valuation / Company Scale | 💳 Starting Pricing | 🎁 Free Tier Limits / Free Trial | 🌟 Key Capabilities & Overview |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Amazon Q Developer](https://aws.amazon.com/q/developer/)** | ~$2.2T+ Market Cap (Amazon AWS) | **$19/user/month** (Pro Tier) | Free forever plan with limits: 2,000 code suggestions/user/month, 50 chat queries/month, and 5 workspace code transformations per month. | Enterprise AWS coding assistant deeply integrated with IDEs, terminal, AWS Console, security scanning, and autonomous Java version upgrades. |
 | **[GitHub Copilot](https://github.com/features/copilot)** | ~$3.1T+ Market Cap parent (Microsoft / GitHub: $2B+ ARR) | **$10/month** or $100/year (Copilot Pro) | Free forever plan with limits: 2,000 code completions/month, 50 chat messages/month, multi-file editing support, and Claude 3.5 Sonnet / GPT-4o choice. | Industry-standard AI coding assistant with universal IDE coverage (VS Code, Visual Studio, JetBrains, Neovim) and full GitHub integration. |
@@ -49,11 +58,11 @@ Below is a curated comparison of leading commercial AI coding platforms, sorted 
 
 ---
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
-Explore top-rated open-source developer tools, CLI pair programmers, autonomous software engineers, and local runtimes. Repositories are ranked in descending order by GitHub stars.
+Explore top-rated open-source developer tools, CLI pair programmers, autonomous software engineers, and local runtimes. Repositories are ranked in descending order by GitHub stars ⭐.
 
-| Repository | GitHub Stars | Description |
+| 📦 Repository | ⭐ GitHub Stars | 📝 Description |
 | :--- | :--- | :--- |
 | **[Ollama](https://github.com/ollama/ollama)** | [![GitHub stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) | High-performance local LLM execution runtime. Powers privacy-first code completion and offline coding models (DeepSeek-Coder, Qwen2.5-Coder, Codestral, Llama 3). |
 | **[Open WebUI](https://github.com/open-webui/open-webui)** | [![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers) | Feature-packed self-hosted web interface supporting Ollama, vLLM, and OpenAI-compatible APIs with built-in code execution, RAG, and artifact rendering. |
@@ -67,7 +76,7 @@ Explore top-rated open-source developer tools, CLI pair programmers, autonomous 
 | **[Aider](https://github.com/Aider-AI/aider)** | [![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers) | Premier AI pair programming tool in the terminal with git repository map awareness, multi-file refactoring, automatic git commits, and benchmark-leading code editing. |
 | **[LibreChat](https://github.com/LibreChat-AI/LibreChat)** | [![GitHub stars](https://img.shields.io/github/stars/LibreChat-AI/LibreChat?style=social&color=white)](https://github.com/LibreChat-AI/LibreChat/stargazers) | Enhanced open-source AI platform supporting multiple model providers, custom coding agents, code syntax highlighting, MCP integration, and team management. |
 | **[Continue](https://github.com/continuedev/continue)** | [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers) | Open-source modular coding assistant extension for VS Code and JetBrains. Connects any open or proprietary LLM with custom docs, codebase indexing, and slash commands. |
-| **[Tabby](https://github.com/TabbyML/tabby)** | [![GitHub stars](https://img.shields.io/github/stars/TabbyML/tabby)](https://github.com/TabbyML/tabby/stargazers) | Self-hosted, standalone AI coding assistant server offering high-speed code completion and chat with on-premise GPU/CPU acceleration. |
+| **[Tabby](https://github.com/TabbyML/tabby)** | [![GitHub stars](https://img.shields.io/github/stars/TabbyML/tabby?style=social&color=white)](https://github.com/TabbyML/tabby/stargazers) | Self-hosted, standalone AI coding assistant server offering high-speed code completion and chat with on-premise GPU/CPU acceleration. |
 | **[Roo Code](https://github.com/RooCodeInc/Roo-Code)** | [![GitHub stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social&color=white)](https://github.com/RooCodeInc/Roo-Code/stargazers) | Agentic coding extension for VS Code featuring custom persona modes (Code, Architect, Ask, Debug), MCP tool integration, and checkpoint rollbacks. |
 | **[Devika](https://github.com/stitionai/devika)** | [![GitHub stars](https://img.shields.io/github/stars/stitionai/devika?style=social&color=white)](https://github.com/stitionai/devika/stargazers) | Agentic software development assistant that breaks down high-level human goals into research, architecture, and code execution steps. |
 | **[Plandex](https://github.com/plandex-ai/plandex)** | [![GitHub stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social&color=white)](https://github.com/plandex-ai/plandex/stargazers) | Terminal-based AI coding engine architected for large, multi-file software engineering tasks with version-controlled sandboxes and diff reviews. |
@@ -76,30 +85,47 @@ Explore top-rated open-source developer tools, CLI pair programmers, autonomous 
 
 ---
 
-## Architecture & Frameworks for Custom AI Coding
+## 🏗️ Architecture & Frameworks for Custom AI Coding
 
 For enterprise engineering teams evaluating local vs. commercial deployments:
 
-1. **Inference Runtime Engine**: Deploy [Ollama](https://github.com/ollama/ollama), [vLLM](https://github.com/vllm-project/vllm), or [llama.cpp](https://github.com/ggerganov/llama.cpp) for private, zero-data-leakage model execution.
-2. **Context & Embedding Indexing**: Leverage tools like [Continue](https://github.com/continuedev/continue) or [Tabby](https://github.com/TabbyML/tabby) to generate vector embeddings and AST repository maps of your local git repository.
-3. **Editor / Terminal Client**: Integrate [Aider](https://github.com/Aider-AI/aider) or [Claude Code](https://github.com/anthropics/claude-code) for terminal workflows, or [Cline](https://github.com/cline/cline) / [Continue](https://github.com/continuedev/continue) in VS Code / JetBrains.
-4. **Agent Protocol & Tools**: Standardize external tool communication and API integrations using the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/).
+1. ⚙️ **Inference Runtime Engine**: Deploy [Ollama](https://github.com/ollama/ollama), [vLLM](https://github.com/vllm-project/vllm), or [llama.cpp](https://github.com/ggerganov/llama.cpp) for private, zero-data-leakage model execution.
+2. 🧠 **Context & Embedding Indexing**: Leverage tools like [Continue](https://github.com/continuedev/continue) or [Tabby](https://github.com/TabbyML/tabby) to generate vector embeddings and AST repository maps of your local git repository.
+3. 💻 **Editor / Terminal Client**: Integrate [Aider](https://github.com/Aider-AI/aider) or [Claude Code](https://github.com/anthropics/claude-code) for terminal workflows, or [Cline](https://github.com/cline/cline) / [Continue](https://github.com/continuedev/continue) in VS Code / JetBrains.
+4. 🔌 **Agent Protocol & Tools**: Standardize external tool communication and API integrations using the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/).
 
 ---
 
-## How to Contribute
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Coding-Tools&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Coding-Tools&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and supporting **Awesome AI Coding Tools**! 🙏
+
+If you found this repository helpful, consider supporting its continuous maintenance:
+- ⭐ **Star this repository** on GitHub to help others discover it!
+- 🍴 **Fork and share** with fellow developers, teams, and open-source communities.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing updates, research, and curation, please consider sponsoring via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007) ❤️.
+
+---
+
+## 🤝 How to Contribute
 
 Contributions are warmly welcomed! To suggest a tool, update pricing, or add an open-source project:
 
-1. Fork this repository.
-2. Update `README.md` following the table schema:
+1. 🍴 Fork this repository.
+2. ✍️ Update `README.md` following the table schema:
    - For SaaS tools: include company valuation/scale, exact starting tier price, and explicit free tier or trial limits.
    - For Open-Source projects: provide the GitHub repository, star badge (`style=social&color=white`) linking to its stargazers page, and a concise 1–2 sentence description.
-3. Submit a Pull Request with a short summary of the updates.
+3. 🚀 Submit a Pull Request with a short summary of the updates.
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 This repository is maintained for informational and educational purposes. Product pricing, free tier limits, company valuations, and repository star metrics are subject to continuous change by their respective maintainers and vendors. Always verify security, data privacy, and intellectual property compliance prior to deploying AI coding tools in enterprise environments.
 
